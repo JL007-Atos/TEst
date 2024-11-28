@@ -1,0 +1,1 @@
+curl --proxy "http://161.89.61.209:8080" -u "Username":"Password" -X GET "URL" --output C:/Users/ATCY_A767337/Downloads/report.xlsx
